@@ -3,8 +3,5 @@
 
 - 🌱 I’m currently learning new languages and tools
 - 👯 I’m looking to collaborate on world tec in brazil
-- 🤔 I’m looking for help with Js C# python
-- 💬 Ask me about games/animes/books
-- 📫 How to reach me: abnerdruns@gmail.com
-- ⚡ Fun fact: The first oranges weren’t orange ?🤔
-- 
+- 💬 Ask me about movies/books/musics.
+- 📫 How to reach me: izabella.faria.ismart@gmail.com
